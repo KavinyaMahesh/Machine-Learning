@@ -8,3 +8,5 @@ list2 = [3, 4, 5, 6, 7]
 
 common_count = common_elements_count(list1, list2)
 print(f"Number of common elements: {common_count}")
+
+print("Hello")
